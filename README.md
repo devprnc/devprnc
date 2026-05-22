@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devprnc&label=Profile%20views&color=0e75b6&style=flat" alt="devprnc" /> </p>
 
-- 🔭 I’m currently working on **UPA: Urban Property Rental**
+- 🔭 I’m currently working on **Xytron International**
 
-- 🌱 I’m currently learning **Expo and Nativewind**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **20210713m.princepaquiado.bscs@gmail.com**
 
