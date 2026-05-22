@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi, I'm Prince Louie Paquiado</h1>
-<h3 align="center">A passionate full stack developer from Philippines</h3>https://github.com/princepaqs/princepaqs/blob/main/README.md
+<h3 align="center">A passionate full stack developer from Philippines</h3>https://github.com/devprnc/devprnc/blob/main/README.md
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/215/215911.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princepaqs&label=Profile%20views&color=0e75b6&style=flat" alt="princepaqs" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devprnc&label=Profile%20views&color=0e75b6&style=flat" alt="devprnc" /> </p>
 
 - 🔭 I’m currently working on **UPA: Urban Property Rental**
 
@@ -28,8 +28,8 @@
   </a>  </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princepaqs&show_icons=true&locale=en&layout=compact" alt="princepaqs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devprnc&show_icons=true&locale=en&layout=compact" alt="devprnc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princepaqs&show_icons=true&locale=en" alt="princepaqs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devprnc&show_icons=true&locale=en" alt="devprnc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princepaqs&" alt="princepaqs" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devprnc&" alt="devprnc" /></p>
