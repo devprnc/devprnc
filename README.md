@@ -27,9 +27,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   </a>  </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devprnc&show_icons=true&locale=en&layout=compact" alt="devprnc" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devprnc&show_icons=true&locale=en" alt="devprnc" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devprnc&" alt="devprnc" /></p>
